@@ -1,4 +1,7 @@
 # Smart Parking Availability System
+
+📊 [Live ThingSpeak dashboard](https://thingspeak.mathworks.com/channels/3457040)
+
 <img width="1080" height="1440" alt="full system" src="https://github.com/user-attachments/assets/32562aee-cd32-484f-8799-2ea495478764" />
 
 
