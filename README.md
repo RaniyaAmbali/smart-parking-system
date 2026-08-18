@@ -1,6 +1,6 @@
 # Smart Parking Availability System
 
-📊 [Live ThingSpeak dashboard](https://thingspeak.mathworks.com/channels/3457040)
+ [Live ThingSpeak dashboard](https://thingspeak.mathworks.com/channels/3457040)
 
 <img width="1080" height="1440" alt="full system" src="https://github.com/user-attachments/assets/32562aee-cd32-484f-8799-2ea495478764" />
 
@@ -10,6 +10,8 @@ This is a small prototype I built over the summer using the Arduino IoT starter 
 
  This is my first real hands-on embedded systems project, built and debugged on my own.
 
+[Working prototype demo video](https://youtu.be/rOepr7itJ2g?si=G1CVgUw5wDX5OQn5)
+ 
 The full code lives in [`parking_system.ino`](./parking_system.ino) and [`parking_to_thingspeak.py`](./parking_to_thingspeak.py) in this repo. This README explains what it's doing and why, rather than repeating the whole thing here.
 
 ## Why I built this
